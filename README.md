@@ -19,7 +19,6 @@ Clone this repository to your local machine.
 Install the required dependencies by running: pip install -r requirements.txt.
 Apply migrations to set up the database: python manage.py makemigrations followed by python manage.py migrate.
 Launch the development server: python manage.py runserver.
-You can now access the application in your web browser at http://127.0.0.1:8000/.
 
 # Contributing
 Contributions to this project are welcome. If you wish to contribute, please fork the repository, implement your changes, and submit a pull request.
